@@ -6,4 +6,7 @@ No meio digital, uma abordagem relevante é a Transformada Discreta de Wavelet (
 
 Entretanto, essa técnica possui uma limitação quanto à capacidade de ocultação, uma vez que utiliza apenas uma das sub-bandas disponíveis. Para aumentar a quantidade de dados ocultos, seria necessário adaptar o código para explorar outras bandas da DWT, com isto aumentamos a complexidade do código. 
 
-1 - utilizando 
+
+
+1 - utilizando o código main.py é possível ter acesso ao algoritmo capaz de ocultar a mensagem (escrita no terminal) em uma imagem em tons de cinza(grayscale):
+no terminal do pycharmy é necessário utilizar alguns comandos 
