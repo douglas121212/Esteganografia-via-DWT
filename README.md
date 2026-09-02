@@ -1,6 +1,6 @@
 # Esteganografia-via-DWT
 
-Este projeto tem como objetivo demonstrar o uso e a aplicabilidade da técnica de esteganografia no domínio da frequência. O código trabalha com imagens nos formatos PNG e BMP, utilizando apenas imagens em tons de cinza (grayscale), com as dimensões de 256 x 256 píxels.
+Este projeto tem como objetivo demonstrar o uso e a aplicabilidade da técnica de esteganografia no domínio da frequência. O código trabalha com imagens nos formatos PNG e BMP, utilizando apenas imagens em tons de cinza (grayscale).
 
 No meio digital, uma abordagem relevante é a Transformada Discreta de Wavelet (DWT), que permite inserir dados nos coeficientes de frequência da imagem, tornando as modificações menos perceptíveis.
 
