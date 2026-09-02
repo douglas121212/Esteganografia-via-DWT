@@ -18,9 +18,10 @@ Em seguida, abra o Terminal do PyCharm.
 
 No terminal, instale as bibliotecas necessárias para executar o código:
 
-'pip install opencv-python'
-
-'pip install numpy'
+```bash
+pip install opencv-python
+pip install numpy
+```
 
 Após a instalação das bibliotecas, o arquivo main.py pode ser executado pelo PyCharm. Para isso, clique com o botão direito sobre o arquivo main.py e selecione Run 'main'.
 
